@@ -24,7 +24,7 @@ python cli.py show_blockchain
 从其他节点同步区块链
 
 ```python
-python cli.py
+python cli.py sync
 ```
 
 ![Alt text](http://p02xpbzpl.bkt.clouddn.com/blockchain02.png)
